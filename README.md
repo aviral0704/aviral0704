@@ -2,7 +2,7 @@
   <head>
   </head>
   <body>
-    <h1 align="center">🙋🏻‍♂️Hlw everyone, I'm Aviral👨💻</h1>
+    <h3 align="center">🙋🏻‍♂️Hlw everyone, I'm Aviral👨🏼‍💻</h3>
     
     <p>.🔭 I’m currently pursuing MCA from Galgotias University</p>
     <p>. 🌱 I’m currently learning: Many things💻</p>
