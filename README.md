@@ -1,5 +1,5 @@
 <html>
-  <head text-align:center>
+  <head align="center">
    PORTFOLIO
   </head>
   <body>
