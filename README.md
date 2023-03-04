@@ -1,6 +1,6 @@
 <html>
   <head>
-    <Title>PORTFOLIO</Title>
+   PORTFOLIO
   </head>
   <body>
     <p>.🙋🏻‍♂️Hlw everyone, I'm Aviral👨🏻‍💻</p>
